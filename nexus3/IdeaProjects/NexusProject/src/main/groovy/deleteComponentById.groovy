@@ -1,8 +1,5 @@
-package main.groovy
+package main.groovy;
 
-/**
- * Created by DaKo on 12/14/2017.
- */
 import org.sonatype.nexus.repository.storage.Query;
 import org.sonatype.nexus.repository.storage.StorageFacet;
 import groovy.json.JsonOutput
